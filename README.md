@@ -45,27 +45,52 @@ Preview
 
 
                                       Products page
+                                      --------------
                                       
 ![products](https://github.com/user-attachments/assets/370fcc05-2df4-4ddb-bfda-af985465ceef)
 
-After filtering products
+
+                                    After filtering products
+                                    ------------------------
+
+                                    
 ![after_filtering_products](https://github.com/user-attachments/assets/2b32ff41-d293-42ae-8648-dde23d0cc28c)
 
-Registration page
+
+                                      Registration page
+                                      -----------------
+
+                                      
 ![register_page](https://github.com/user-attachments/assets/d4dca1b5-3e06-4019-93a0-45a6e962b90f)
 
-Login page
+
+                                          Login page
+                                          -----------
+
+                                          
 ![login](https://github.com/user-attachments/assets/d4450842-e933-4adb-9aea-19a014ddb6f9)
 
-Verify email
+                                          Verify email
+                                          ------------
+
+                                          
 ![verify-email](https://github.com/user-attachments/assets/61d35151-cf92-474c-9b74-377b2913f6d8)
 
-Verification mail
+
+                                        Verification mail
+                                        -----------------
+
+                                        
 ![verification-mail](https://github.com/user-attachments/assets/4e68721c-5be8-4f62-a2e0-9f997caa7c78)
 
-My cart
+
+                                            My cart
+                                            --------
 ![mycart](https://github.com/user-attachments/assets/c9fdc325-072c-41c9-b9cd-e1c8f2fc5204)
 
-My orders
+
+
+                                            My orders
+                                            ---------
 ![myorders](https://github.com/user-attachments/assets/0ca65891-7298-42c0-ab9c-0b7cb8810c1b)
 
