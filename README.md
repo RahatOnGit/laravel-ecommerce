@@ -24,12 +24,26 @@ Any user can see the products and their details. The user can filter the product
 
 For ordering a product, the user need to be registered. After registartion, a verification mail is sent to the registered email. After verfiying the email address, the user can order or add products to his cart. The user can see his order status whether it is in processing, in shipping or shipped.
 
+
+
+
+At the admin side
+-----------------
+
+The admin can add, edit or delete product categories. The admin will add products. Every products should lie in a particular category. Admin can observe the total odrers. According to different orders, admin will change order status for every order. 
+
+
 Preview
 -------
-Home page
+
+                                       Home page
+
 ![home](https://github.com/user-attachments/assets/c965d18d-26fd-4dca-a58b-522d6aa6def3)
 
-Products page
+
+
+                                      Products page
+                                      
 ![products](https://github.com/user-attachments/assets/370fcc05-2df4-4ddb-bfda-af985465ceef)
 
 After filtering products
@@ -52,10 +66,4 @@ My cart
 
 My orders
 ![myorders](https://github.com/user-attachments/assets/0ca65891-7298-42c0-ab9c-0b7cb8810c1b)
-
-
-At the admin side
------------------
-
-The admin can add, edit or delete product categories. The admin will add products. Every products should lie in a particular category. Admin can observe the total odrers. According to different orders, admin will change order status for every order. 
 
